@@ -1,0 +1,4 @@
+{
+  "name": "intely-admin",
+  "scripts": {"dev": "vite"}
+}
